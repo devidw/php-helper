@@ -1,0 +1,26 @@
+= PHP Helper
+:author: David Wolf
+:email: david@wolf.gdn
+
+A collection of PHP Helper functions.
+
+
+== Installation
+Install _PHP Helper_ with https://getcomposer.org[Composer]:
+
+[source,sh]
+----
+composer require devidw/helper --dev
+----
+
+
+== Usage
+
+[source,php]
+----
+<?php
+
+require_once __DIR__ . '/vendor/autoload.php';
+
+// ...
+----
